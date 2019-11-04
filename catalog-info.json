@@ -1,10 +1,12 @@
 {
   "sidebar": [
     {
+      "image": "ImDiscover",
+      "title": "Wanderlust",
       "content": [
         {
-          "type": "snapshot-list",
           "title": "Big ones",
+          "type": "snapshot-list",
           "repositories": [
             "https://github.com/swiftwebui/SwiftWebUI.git",
             "https://github.com/SwiftyJSON/SwiftyJSON.git",
@@ -14,9 +16,9 @@
         },
         {
           "title": "All Things Swift",
-          "rows": 2,
           "type": "small-list",
-          "needle": "swift"
+          "needle": "swift",
+          "rows": 2
         },
         {
           "type": "list",
@@ -27,84 +29,83 @@
             "https://github.com/SwiftXcode/swift-xcode.git"
           ]
         }
-      ],
-      "image": "ImDiscover",
-      "title": "Wanderlust"
+      ]
     },
     {
       "content": [
         {
+          "type": "small-list",
+          "rows": 2,
           "repositories": [
             "https://github.com/nozeio/microexpress.git",
             "https://github.com/IBM-Swift/Kitura.git",
             "https://github.com/vapor/vapor.git",
             "https://github.com/NozeIO/Noze.io.git",
             "https://github.com/amzn/smoke-framework.git"
-          ],
-          "rows": 2,
-          "type": "small-list"
+          ]
         }
       ],
       "subsections": [
         {
+          "title": "Swift NIO",
           "content": [
             {
               "type": "search",
               "rows": 5,
               "needle": "nio"
             }
-          ],
-          "title": "SwiftNIO"
+          ]
         },
         {
+          "title": "Kitura",
           "content": [
             {
               "type": "search",
               "rows": 5,
               "needle": "kitura"
             }
-          ],
-          "title": "Kitura"
+          ]
         },
         {
+          "title": "Perfect",
           "content": [
             {
               "type": "search",
               "rows": 5,
               "needle": "perfect"
             }
-          ],
-          "title": "Perfect"
+          ]
         },
         {
+          "title": "Vapor",
           "content": [
             {
               "type": "search",
               "rows": 5,
               "needle": "vapor"
             }
-          ],
-          "title": "Vapor"
+          ]
         },
         {
+          "title": "SSWG",
           "content": [
             {
+              "title": "Server Side Working Group",
+              "rows": 3,
+              "type": "small-list",
               "repositories": [
-                "http://github.com/apple/swift-nio.git",
-                "http://github.com/apple/swift-log.git",
-                "http://github.com/apple/swift-metrics.git",
+                "https://github.com/apple/swift-nio.git",
+                "https://github.com/apple/swift-log.git",
+                "https://github.com/apple/swift-metrics.git",
                 "https://github.com/vapor/nio-postgres.git",
                 "https://github.com/mordil/swift-redis-nio-client.git",
                 "https://github.com/swift-server/async-http-client.git",
                 "https://github.com/kylebrowning/swift-nio-apns.git",
                 "https://github.com/apple/swift-statsd-client.git",
-                "https://github.com/MrLotU/SwiftPrometheus"
-              ],
-              "rows": 5,
-              "type": "small-list"
+                "https://github.com/MrLotU/SwiftPrometheus.git"
+              ]
             }
-          ],
-          "title": "SSWG — Server Side Working Group"
+          ]
         }
       ],
       "image": "ImServer9",
