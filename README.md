@@ -29,7 +29,7 @@ jq -e . packages.json > /dev/null
 You can test changes by setting the `CatalogInfoURL` user default.
 The default's default is this URL of this repo:
 `https://raw.githubusercontent.com/ZeeZide/SwiftPMCatalog/master/catalog-info.json`.
-Buut you can point it to any location you like.
+But you can point it to any location you like.
 
 E.g. `defaults write NSGlobalDomain CatalogInfoURL "http://myserver/catalog-info.plist"`, or start the app on the commandline
 with the `-CatalogInfoURL "http://myserver/catalog-info.plist"` argument.
