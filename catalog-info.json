@@ -98,7 +98,7 @@
                 "https://github.com/swift-server/async-http-client.git",
                 "https://github.com/kylebrowning/swift-nio-apns.git",
                 "https://github.com/apple/swift-statsd-client.git",
-                "https://github.com/MrLotU/SwiftPrometheus",
+                "https://github.com/MrLotU/SwiftPrometheus"
               ],
               "rows": 5,
               "type": "small-list"
