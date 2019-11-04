@@ -385,8 +385,12 @@
       "https://avatars2.githubusercontent.com/u/36967536?s=256&v=4",
     "https://github.com/AlwaysRightInstitute/cows.git": 
       "https://cloud.githubusercontent.com/assets/170270/13090998/a9cdd6b0-d52b-11e5-83ec-614143c9a3bb.png",
+
     "https://github.com/vapor/vapor.git": 
       "https://avatars1.githubusercontent.com/u/17364220?s=256&v=4",
+    "https://github.com/vapor/nio-postgres.git":
+      "https://avatars1.githubusercontent.com/u/17364220?s=256&v=4",
+      
     "https://github.com/Moya/Moya.git": 
       "https://raw.githubusercontent.com/Moya/Moya/master/web/logo_github.png",
     "https://github.com/Quick/Quick.git": 
@@ -418,6 +422,8 @@
       "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
     "https://github.com/apple/swift-log.git":
       "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
+    "https://github.com/apple/swift-metrics.git":
+      "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
     
     "https://github.com/vapor-community/markdown.git": 
       "https://avatars1.githubusercontent.com/u/17364220?s=256&v=4",
@@ -430,6 +436,12 @@
     "https://github.com/surpher/pactswiftpmexample.git": 
       "https://avatars2.githubusercontent.com/u/1733327?s=256&v=4",
     "https://github.com/swift-server/async-http-client.git":
-      "https://avatars2.githubusercontent.com/u/21047421?s=256&v=4"
+      "https://avatars2.githubusercontent.com/u/21047421?s=256&v=4",
+    "https://github.com/kylebrowning/swift-nio-apns.git":
+      "https://avatars0.githubusercontent.com/u/113023?s=256&v=4",
+    "https://github.com/MrLotU/SwiftPrometheus":
+      "https://avatars1.githubusercontent.com/u/18392003?s=256&v=4",
+    "https://github.com/mordil/swift-redi-stack.git":
+      "https://assets.gitlab-static.net/uploads/-/system/project/avatar/12732727/RediStack_logo.png?width=64"
   }
 }
