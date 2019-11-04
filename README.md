@@ -24,7 +24,17 @@ Before submitting, please make sure the JSON is valid, e.g. using:
 jq -e . packages.json > /dev/null
 ```
 
-Note: When icons are from a resizable source, we prefer the 256x256 images.
+### Testing
+
+You can test changes by setting the `CatalogInfoURL` user default.
+The default's default is this URL of this repo:
+`https://raw.githubusercontent.com/ZeeZide/SwiftPMCatalog/master/catalog-info.json`.
+But you can point it to any location you like.
+
+E.g. `defaults write NSGlobalDomain CatalogInfoURL "http://myserver/catalog-info.plist"`, or start the app on the commandline
+with the `-CatalogInfoURL "http://myserver/catalog-info.plist"` argument.
+
+> Note: When icons are from a resizable source, we prefer the 256x256 images.
 
 ## Catalog JSON Format
 
