@@ -1,0 +1,16 @@
+{
+  "sidebar": [
+    {
+      "content": [
+        {
+          "title": "All Things Swift",
+          "rows": 2,
+          "type": "small-list",
+          "needle": "swift"
+        },
+      ],
+      "image": "ImDiscover",
+      "title": "Wanderlust"
+    }
+  ]
+}
