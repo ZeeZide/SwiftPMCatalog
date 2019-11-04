@@ -60,15 +60,60 @@
       "content": [
         {
           "repositories": [
-            "https://github.com/AlwaysRightInstitute/cows.git",
-            "https://github.com/alwaysrightinstitute/euro.git",
-            "https://github.com/AlwaysRightInstitute/SwiftEliza.git"
+            "https://github.com/nozeio/microexpress.git",
+            "https://github.com/IBM-Swift/Kitura.git",
+            "https://github.com/vapor/vapor.git",
+            "https://github.com/NozeIO/Noze.io.git",
+            "https://github.com/amzn/smoke-framework.git"
           ],
+          "rows": 2,
           "type": "small-list"
         }
       ],
-      "image": "ImParty8",
-      "title": "Fun Stuff"
+      "subsections": [
+        {
+          "content": [
+            {
+              "type": "search",
+              "rows": 5,
+              "needle": "nio"
+            }
+          ],
+          "title": "SwiftNIO"
+        },
+        {
+          "content": [
+            {
+              "type": "search",
+              "rows": 5,
+              "needle": "kitura"
+            }
+          ],
+          "title": "Kitura"
+        },
+        {
+          "content": [
+            {
+              "type": "search",
+              "rows": 5,
+              "needle": "perfect"
+            }
+          ],
+          "title": "Prefect"
+        },
+        {
+          "content": [
+            {
+              "type": "search",
+              "rows": 5,
+              "needle": "vapor"
+            }
+          ],
+          "title": "Vapor"
+        }
+      ],
+      "image": "ImServer9",
+      "title": "Server Side"
     },
     {
       "content": [
@@ -190,65 +235,6 @@
     {
       "content": [
         {
-          "repositories": [
-            "https://github.com/nozeio/microexpress.git",
-            "https://github.com/IBM-Swift/Kitura.git",
-            "https://github.com/vapor/vapor.git",
-            "https://github.com/NozeIO/Noze.io.git",
-            "https://github.com/amzn/smoke-framework.git"
-          ],
-          "rows": 2,
-          "type": "small-list"
-        }
-      ],
-      "subsections": [
-        {
-          "content": [
-            {
-              "type": "search",
-              "rows": 5,
-              "needle": "nio"
-            }
-          ],
-          "title": "SwiftNIO"
-        },
-        {
-          "content": [
-            {
-              "type": "search",
-              "rows": 5,
-              "needle": "kitura"
-            }
-          ],
-          "title": "Kitura"
-        },
-        {
-          "content": [
-            {
-              "type": "search",
-              "rows": 5,
-              "needle": "perfect"
-            }
-          ],
-          "title": "Prefect"
-        },
-        {
-          "content": [
-            {
-              "type": "search",
-              "rows": 5,
-              "needle": "vapor"
-            }
-          ],
-          "title": "Vapor"
-        }
-      ],
-      "image": "ImServer9",
-      "title": "Server Side"
-    },
-    {
-      "content": [
-        {
           "type": "snapshot-list",
           "title": "Big ones",
           "repositories": [
@@ -360,6 +346,20 @@
       ],
       "image": "ImDatabase1",
       "title": "Databases"
+    },
+    {
+      "content": [
+        {
+          "repositories": [
+            "https://github.com/AlwaysRightInstitute/cows.git",
+            "https://github.com/alwaysrightinstitute/euro.git",
+            "https://github.com/AlwaysRightInstitute/SwiftEliza.git"
+          ],
+          "type": "small-list"
+        }
+      ],
+      "image": "ImParty8",
+      "title": "Fun Stuff"
     }
   ],
   "snapshot-images": {
