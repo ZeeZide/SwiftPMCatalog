@@ -98,7 +98,7 @@
                 "https://github.com/apple/swift-log.git",
                 "https://github.com/apple/swift-metrics.git",
                 "https://github.com/vapor/nio-postgres.git",
-                "https://github.com/mordil/swift-redis-nio-client.git",
+                "https://github.com/Mordil/swift-redi-stack.git",
                 "https://github.com/swift-server/async-http-client.git",
                 "https://github.com/kylebrowning/swift-nio-apns.git",
                 "https://github.com/apple/swift-statsd-client.git",
@@ -363,12 +363,18 @@
     "https://github.com/swiftwebui/SwiftWebUI.git": "http://www.alwaysrightinstitute.com/images/swiftwebui/AvocadoCounter/AvocadoCounter.gif"
   },
   "icons": {
-    "https://github.com/amzn/smoke-framework.git": "https://avatars0.githubusercontent.com/u/8594673?s=256&v=4",
-    "https://github.com/SnapKit/SnapKit.git": "https://avatars0.githubusercontent.com/u/7809696?s=256&v=4",
-    "https://github.com/IBM-Swift/Kitura.git": "https://avatars2.githubusercontent.com/u/16882981?s=256&v=4",
-    "https://github.com/NozeIO/Noze.io.git": "http://noze.io/images/noze-128x128.png",
-    "https://github.com/freshOS/then.git": "https://avatars0.githubusercontent.com/u/20884428?s=256&v=4",
-    "https://github.com/nozeio/microexpress.git": "https://zeezide.com/img/MicroExpressIcon1024.png",
+    "https://github.com/amzn/smoke-framework.git": 
+      "https://avatars0.githubusercontent.com/u/8594673?s=256&v=4",
+    "https://github.com/SnapKit/SnapKit.git": 
+      "https://avatars0.githubusercontent.com/u/7809696?s=256&v=4",
+    "https://github.com/IBM-Swift/Kitura.git": 
+      "https://avatars2.githubusercontent.com/u/16882981?s=256&v=4",
+    "https://github.com/NozeIO/Noze.io.git": 
+      "http://noze.io/images/noze-128x128.png",
+    "https://github.com/freshOS/then.git": 
+      "https://avatars0.githubusercontent.com/u/20884428?s=256&v=4",
+    "https://github.com/nozeio/microexpress.git": 
+      "https://zeezide.com/img/MicroExpressIcon1024.png",
     "https://github.com/swiftwebui/SwiftWebUI.git": "http://www.alwaysrightinstitute.com/images/swiftwebui/TinkerIcon128.png",
     "https://github.com/uraimo/SwiftyGPIO.git": "https://avatars0.githubusercontent.com/u/181436?s=256&v=4",
     "https://github.com/erica/swiftdates.git": "https://raw.githubusercontent.com/erica/SwiftDates/master/images/clock.png",
@@ -385,13 +391,20 @@
     "https://github.com/krzyzanowskim/CryptoSwift.git": "https://avatars0.githubusercontent.com/u/758033?s=256&v=4",
     "https://github.com/mxcl/PromiseKit.git": "https://avatars2.githubusercontent.com/u/58962?s=256&v=4",
     "https://github.com/SwiftyJSON/SwiftyJSON.git": "https://avatars3.githubusercontent.com/u/8858017?s=256&v=4",
-    "https://github.com/apple/swift-nio.git": "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
-    "https://github.com/apple/swift-package-manager.git": "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
+    "https://github.com/apple/swift-nio.git": 
+      "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
+    "https://github.com/apple/swift-package-manager.git": 
+      "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
+    "https://github.com/apple/swift-statsd-client.git":
+      "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
+    "https://github.com/apple/swift-syntax.git": 
+      "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
     "https://github.com/vapor-community/markdown.git": "https://avatars1.githubusercontent.com/u/17364220?s=256&v=4",
     "https://github.com/pixyzehn/packagebuilder.git": "https://avatars2.githubusercontent.com/u/2482478?s=256&v=4",
     "https://github.com/kishikawakatsumi/swiftsyntax.git": "https://avatars3.githubusercontent.com/u/40610?s=256&v=4",
-    "https://github.com/apple/swift-syntax.git": "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
     "https://github.com/balance-io/secp256k1_swift.git": "https://avatars0.githubusercontent.com/u/19879255?s=256&v=4",
-    "https://github.com/surpher/pactswiftpmexample.git": "https://avatars2.githubusercontent.com/u/1733327?s=256&v=4"
+    "https://github.com/surpher/pactswiftpmexample.git": "https://avatars2.githubusercontent.com/u/1733327?s=256&v=4",
+    "https://github.com/swift-server/async-http-client.git":
+      "https://avatars2.githubusercontent.com/u/21047421?s=256&v=4"
   }
 }
