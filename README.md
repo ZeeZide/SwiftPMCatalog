@@ -28,7 +28,8 @@ jq -e . packages.json > /dev/null
 
 The main catalog content is a set of "sections" shown in the sidebar.
 Those can have "subsections" and "content". 
-The "content" is again 
+The "content" is again an array of different content types (currently two
+kinds of lists).
 
 ### Sections
 
