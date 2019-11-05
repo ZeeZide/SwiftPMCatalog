@@ -34,18 +34,20 @@
     {
       "content": [
         {
-          "title": "Server Side Frameworks",
+          "title": "Frameworks",
           "type": "small-list",
           "rows": 2,
           "repositories": [
             "https://github.com/nozeio/microexpress.git",
             "https://github.com/IBM-Swift/Kitura.git",
             "https://github.com/vapor/vapor.git",
-            "https://github.com/amzn/smoke-framework.git"
+            "https://github.com/amzn/smoke-framework.git",
+            "https://github.com/perfectlysoft/perfect.git",
+            "https://github.com/Zewo/Epoch.git"
           ]
         },
         {
-          "title": "Server Side Working Group",
+          "title": "Working Group",
           "rows": 3,
           "type": "small-list",
           "repositories": [
@@ -61,7 +63,7 @@
           ]
         },
         {
-          "title": "Strange but fun",
+          "title": "Strange but Fun",
           "type": "small-list",
           "rows": 1,
           "repositories": [
@@ -472,6 +474,10 @@
     "https://github.com/MrLotU/SwiftPrometheus":
       "https://avatars1.githubusercontent.com/u/18392003?s=256&v=4",
     "https://github.com/mordil/swift-redi-stack.git":
-      "https://assets.gitlab-static.net/uploads/-/system/project/avatar/12732727/RediStack_logo.png?width=64"
+      "https://assets.gitlab-static.net/uploads/-/system/project/avatar/12732727/RediStack_logo.png?width=64",
+    "https://github.com/Zewo/Epoch.git":
+      "https://raw.githubusercontent.com/Zewo/Zewo/master/Images/zewo.png",
+    "https://github.com/perfectlysoft/perfect.git":
+      "https://avatars0.githubusercontent.com/u/14945043?s=256&v=4"
   }
 }
