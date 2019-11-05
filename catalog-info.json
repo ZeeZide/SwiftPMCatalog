@@ -341,35 +341,147 @@
       "title": "Embedded"
     },
     {
+      "image": "ImDatabase1",
+      "title": "Databases",
       "content": [
         {
+          "type": "small-list",
+          "title": "Object Relational Mappers",
           "repositories": [
             "https://github.com/ZeeQL/ZeeQL3.git",
-            "https://github.com/vapor/fluent.git"
-          ],
-          "type": "small-list"
+            "https://github.com/vapor/fluent.git",
+            "https://github.com/IBM-Swift/Swift-Kuery-ORM.git"
+          ]
         },
         {
-          "rows": 2,
+          "type": "small-list",
           "title": "Redis",
-          "type": "search",
-          "needle": "redis"
+          "repositories": [
+            "https://github.com/Mordil/swift-redi-stack.git",
+            "https://github.com/SwiftNIOExtras/swift-nio-redis.git",
+            "https://github.com/NozeIO/redi-s.git"
+          ]
         },
         {
-          "rows": 2,
+          "type": "small-list",
           "title": "PostgreSQL",
-          "type": "search",
-          "needle": "postgres"
+          "repositories": [
+            "https://github.com/vapor/nio-postgres.git",
+            "https://github.com/codewinsdotcom/PostgresClientKit.git",
+            "https://github.com/pl-swift/plswift.git"
+          ]
         },
         {
-          "rows": 2,
+          "type": "small-list",
           "title": "SQLite",
-          "type": "search",
-          "needle": "sqlite"
+          "repositories": [
+            "https://github.com/groue/GRDB.swift.git",
+            "https://github.com/stephencelis/SQLite.swift.git",
+            "https://github.com/vapor/sqlite-kit.git"
+          ]
         }
       ],
-      "image": "ImDatabase1",
-      "title": "Databases"
+      "subsections": [
+        {
+          "title": "ORMs",
+          "content": [
+            {
+              "title" : "Object Relational Mapper",
+              "type"  : "small-list",
+              "repositories": [
+                "https://github.com/ZeeQL/ZeeQL3.git",
+                "https://github.com/vapor/fluent.git",
+                "https://github.com/IBM-Swift/Swift-Kuery-ORM.git"
+              ]
+            },
+            {
+              "title" : "App Generators",
+              "type"  : "small-list",
+              "repositories": [
+                "https://github.com/DirectToSwift/DirectToSwiftUI.git",
+                "https://github.com/DirectToSwift/CoreDataToSwiftUI.git"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PostgreSQL",
+          "content": [
+            {
+              "type": "small-list",
+              "title": "Featured",
+              "repositories": [
+                "https://github.com/vapor/nio-postgres.git",
+                "https://github.com/codewinsdotcom/PostgresClientKit.git",
+                "https://github.com/pl-swift/plswift.git"
+              ]
+            },
+            {
+              "type": "search",
+              "rows": 5,
+              "needle": "postgres"
+            }
+          ]
+        },
+        {
+          "title": "Redis",
+          "content": [
+            {
+              "type": "small-list",
+              "title": "Featured",
+              "repositories": [
+                "https://github.com/Mordil/swift-redi-stack.git",
+                "https://github.com/SwiftNIOExtras/swift-nio-redis.git",
+                "https://github.com/NozeIO/redi-s.git"
+              ]
+            },
+            {
+              "type": "search",
+              "rows": 5,
+              "needle": "redis"
+            }
+          ]
+        },
+        {
+          "title": "SQLite",
+          "content": [
+            {
+              "type": "small-list",
+              "title": "Featured",
+              "repositories": [
+                "https://github.com/groue/GRDB.swift.git",
+                "https://github.com/stephencelis/SQLite.swift.git",
+                "https://github.com/vapor/sqlite-kit.git"
+              ]
+            },
+            {
+              "type": "search",
+              "rows": 5,
+              "needle": "sqlite"
+            }
+          ]
+        },
+        {
+          "title": "MySQL",
+          "content": [
+            {
+              "type": "search",
+              "rows": 5,
+              "needle": "mysql"
+            }
+          ]
+        },
+        {
+          "title": "Realm",
+          "content": [
+            {
+              "type": "search",
+              "rows": 2,
+              "needle": "realm"
+            }
+          ]
+        }
+      ]
     },
     {
       "content": [
@@ -397,22 +509,36 @@
   "icons": {
     "https://github.com/amzn/smoke-framework.git": 
       "https://avatars0.githubusercontent.com/u/8594673?s=256&v=4",
+      
     "https://github.com/SnapKit/SnapKit.git": 
       "https://avatars0.githubusercontent.com/u/7809696?s=256&v=4",
+      
     "https://github.com/IBM-Swift/Kitura.git": 
       "https://avatars2.githubusercontent.com/u/16882981?s=256&v=4",
+    "https://github.com/IBM-Swift/Swift-Kuery-ORM.git":
+      "https://avatars2.githubusercontent.com/u/16882981?s=256&v=4",
+      
     "https://github.com/NozeIO/Noze.io.git": 
       "http://noze.io/images/noze-128x128.png",
-    "https://github.com/freshOS/then.git": 
-      "https://avatars0.githubusercontent.com/u/20884428?s=256&v=4",
     "https://github.com/nozeio/microexpress.git": 
       "https://zeezide.com/img/MicroExpressIcon1024.png",
+      
+    "https://github.com/freshOS/then.git": 
+      "https://avatars0.githubusercontent.com/u/20884428?s=256&v=4",
+      
     "https://github.com/swiftwebui/SwiftWebUI.git": 
       "http://www.alwaysrightinstitute.com/images/swiftwebui/TinkerIcon128.png",
+    "https://github.com/DirectToSwift/DirectToSwiftUI.git":
+      "https://avatars2.githubusercontent.com/u/55363107?s=256&v=4",
+    "https://github.com/DirectToSwift/CoreDataToSwiftUI.git":
+      "https://avatars2.githubusercontent.com/u/55363107?s=256&v=4",
+      
     "https://github.com/uraimo/SwiftyGPIO.git": 
       "https://avatars0.githubusercontent.com/u/181436?s=256&v=4",
+      
     "https://github.com/erica/swiftdates.git": 
       "https://raw.githubusercontent.com/erica/SwiftDates/master/images/clock.png",
+      
     "https://github.com/SwiftXcode/swift-xcode.git": 
       "https://avatars2.githubusercontent.com/u/36967536?s=256&v=4",
     "https://github.com/AlwaysRightInstitute/cows.git": 
@@ -421,6 +547,8 @@
     "https://github.com/vapor/vapor.git": 
       "https://avatars1.githubusercontent.com/u/17364220?s=256&v=4",
     "https://github.com/vapor/nio-postgres.git":
+      "https://avatars1.githubusercontent.com/u/17364220?s=256&v=4",
+    "https://github.com/vapor/fluent.git":
       "https://avatars1.githubusercontent.com/u/17364220?s=256&v=4",
       
     "https://github.com/Moya/Moya.git": 
@@ -478,6 +606,11 @@
     "https://github.com/Zewo/Epoch.git":
       "https://raw.githubusercontent.com/Zewo/Zewo/master/Images/zewo.png",
     "https://github.com/perfectlysoft/perfect.git":
-      "https://avatars0.githubusercontent.com/u/14945043?s=256&v=4"
+      "https://avatars0.githubusercontent.com/u/14945043?s=256&v=4",
+      
+    "https://github.com/pl-swift/plswift.git":
+      "https://avatars1.githubusercontent.com/u/35143538?s=256&v=4",
+    "https://github.com/ZeeQL/ZeeQL3.git":
+      "https://avatars0.githubusercontent.com/u/26922908?s=256&v=4"
   }
 }
