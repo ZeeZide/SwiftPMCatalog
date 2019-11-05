@@ -34,14 +34,40 @@
     {
       "content": [
         {
+          "title": "Server Side Frameworks",
           "type": "small-list",
           "rows": 2,
           "repositories": [
             "https://github.com/nozeio/microexpress.git",
             "https://github.com/IBM-Swift/Kitura.git",
             "https://github.com/vapor/vapor.git",
-            "https://github.com/NozeIO/Noze.io.git",
             "https://github.com/amzn/smoke-framework.git"
+          ]
+        },
+        {
+          "title": "Server Side Working Group",
+          "rows": 3,
+          "type": "small-list",
+          "repositories": [
+            "https://github.com/apple/swift-nio.git",
+            "https://github.com/apple/swift-log.git",
+            "https://github.com/apple/swift-metrics.git",
+            "https://github.com/vapor/nio-postgres.git",
+            "https://github.com/Mordil/swift-redi-stack.git",
+            "https://github.com/swift-server/async-http-client.git",
+            "https://github.com/kylebrowning/swift-nio-apns.git",
+            "https://github.com/apple/swift-statsd-client.git",
+            "https://github.com/MrLotU/SwiftPrometheus.git"
+          ]
+        },
+        {
+          "title": "Strange but fun",
+          "type": "small-list",
+          "rows": 1,
+          "repositories": [
+            "https://github.com/swiftwebui/SwiftWebUI.git",
+            "https://github.com/NozeIO/Noze.io.git",
+            "https://github.com/SwiftObjects/SwiftObjects.git"
           ]
         }
       ],
@@ -358,10 +384,14 @@
       "title": "Fun Stuff"
     }
   ],
+  
   "snapshot-images": {
-    "https://github.com/SwiftXcode/swift-xcode.git": "http://zeezide.com/img/swift-xcode-uikit-cows.gif",
-    "https://github.com/swiftwebui/SwiftWebUI.git": "http://www.alwaysrightinstitute.com/images/swiftwebui/AvocadoCounter/AvocadoCounter.gif"
+    "https://github.com/SwiftXcode/swift-xcode.git": 
+      "http://zeezide.com/img/swift-xcode-uikit-cows.gif",
+    "https://github.com/swiftwebui/SwiftWebUI.git": 
+      "http://www.alwaysrightinstitute.com/images/swiftwebui/AvocadoCounter/AvocadoCounter.gif"
   },
+  
   "icons": {
     "https://github.com/amzn/smoke-framework.git": 
       "https://avatars0.githubusercontent.com/u/8594673?s=256&v=4",
