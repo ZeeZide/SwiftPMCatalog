@@ -348,9 +348,10 @@
           "type": "small-list",
           "title": "Object Relational Mappers",
           "repositories": [
-            "https://github.com/ZeeQL/ZeeQL3.git",
-            "https://github.com/vapor/fluent.git",
-            "https://github.com/IBM-Swift/Swift-Kuery-ORM.git"
+            "https://github.com/IBM-Swift/Swift-Kuery-ORM.git",
+            "https://github.com/SwiftORM/Storm.git",
+            "https://github.com/Vapor/Fluent.git",
+            "https://github.com/ZeeQL/ZeeQL3.git"
           ]
         },
         {
@@ -613,6 +614,8 @@
     "https://github.com/pl-swift/plswift.git":
       "https://avatars1.githubusercontent.com/u/35143538?s=256&v=4",
     "https://github.com/ZeeQL/ZeeQL3.git":
-      "https://avatars0.githubusercontent.com/u/26922908?s=256&v=4"
+      "https://avatars0.githubusercontent.com/u/26922908?s=256&v=4",
+    "https://github.com/paololeonardi/WaterfallGrid.git":
+      "https://paololeonardi.github.io/waterfallgrid/resources/waterfallgrid-logo.png"
   }
 }
