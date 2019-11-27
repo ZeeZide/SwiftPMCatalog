@@ -8,10 +8,10 @@
           "title": "Big ones",
           "type": "snapshot-list",
           "repositories": [
+            "https://github.com/JohnSundell/Ink.git",
             "https://github.com/swiftwebui/SwiftWebUI.git",
             "https://github.com/SwiftyJSON/SwiftyJSON.git",
-            "https://github.com/mxcl/PromiseKit.git",
-            "https://github.com/SwiftXcode/swift-xcode.git"
+            "https://github.com/mxcl/PromiseKit.git"
           ]
         },
         {
@@ -504,10 +504,15 @@
     "https://github.com/SwiftXcode/swift-xcode.git": 
       "http://zeezide.com/img/swift-xcode-uikit-cows.gif",
     "https://github.com/swiftwebui/SwiftWebUI.git": 
-      "http://www.alwaysrightinstitute.com/images/swiftwebui/AvocadoCounter/AvocadoCounter.gif"
+      "http://www.alwaysrightinstitute.com/images/swiftwebui/AvocadoCounter/AvocadoCounter.gif",
+    "https://github.com/JohnSundell/Ink.git": 
+      "https://github.com/JohnSundell/Ink/blob/master/Logo.png?raw=true"
   },
   
   "icons": {
+    "https://github.com/JohnSundell/Ink.git": 
+      "https://github.com/JohnSundell/Ink/blob/master/Logo.png?raw=true",
+    
     "https://github.com/amzn/smoke-framework.git": 
       "https://avatars0.githubusercontent.com/u/8594673?s=256&v=4",
       
