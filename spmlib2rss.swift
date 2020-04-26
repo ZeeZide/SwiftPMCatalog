@@ -118,8 +118,8 @@ let httpFormatter : DateFormatter = {
 }()
 
 func xmlEscape(_ s: String) -> String {
-  return s.replacingOccurrences(of: "\"", with: "&quot;")
-          .replacingOccurrences(of: "&",  with: "&amp;")
+  return s.replacingOccurrences(of: "&",  with: "&amp;")
+          .replacingOccurrences(of: "\"", with: "&quot;")
           .replacingOccurrences(of: "'",  with: "&apos;")
           .replacingOccurrences(of: "<",  with: "&lt;")
           .replacingOccurrences(of: ">",  with: "&gt;")
