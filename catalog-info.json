@@ -8,8 +8,8 @@
           "title": "Big ones",
           "type": "snapshot-list",
           "repositories": [
-            "https://github.com/JohnSundell/Ink.git",
-            "https://github.com/swiftwebui/SwiftWebUI.git",
+            "https://github.com/JohnSundell/Splash.git",
+            "https://github.com/SwiftBlocksUI/SwiftBlocksUI.git",
             "https://github.com/SwiftyJSON/SwiftyJSON.git",
             "https://github.com/mxcl/PromiseKit.git"
           ]
@@ -38,12 +38,13 @@
           "type": "small-list",
           "rows": 2,
           "repositories": [
-            "https://github.com/nozeio/microexpress.git",
-            "https://github.com/IBM-Swift/Kitura.git",
             "https://github.com/vapor/vapor.git",
+            "https://github.com/Macro-swift/Macro.git",
             "https://github.com/amzn/smoke-framework.git",
+            "https://github.com/Zewo/Epoch.git",
             "https://github.com/perfectlysoft/perfect.git",
-            "https://github.com/Zewo/Epoch.git"
+            "https://github.com/IBM-Swift/Kitura.git",
+            "https://github.com/nozeio/microexpress.git"
           ]
         },
         {
@@ -85,26 +86,6 @@
           ]
         },
         {
-          "title": "Kitura",
-          "content": [
-            {
-              "type": "search",
-              "rows": 5,
-              "needle": "kitura"
-            }
-          ]
-        },
-        {
-          "title": "Perfect",
-          "content": [
-            {
-              "type": "search",
-              "rows": 5,
-              "needle": "perfect"
-            }
-          ]
-        },
-        {
           "title": "Vapor",
           "content": [
             {
@@ -132,6 +113,36 @@
                 "https://github.com/apple/swift-statsd-client.git",
                 "https://github.com/MrLotU/SwiftPrometheus.git"
               ]
+            }
+          ]
+        },
+        {
+          "title": "Slack",
+          "content": [
+            {
+              "type": "search",
+              "rows": 5,
+              "needle": "slack"
+            }
+          ]
+        },
+        {
+          "title": "Kitura",
+          "content": [
+            {
+              "type": "search",
+              "rows": 5,
+              "needle": "kitura"
+            }
+          ]
+        },
+        {
+          "title": "Perfect",
+          "content": [
+            {
+              "type": "search",
+              "rows": 5,
+              "needle": "perfect"
             }
           ]
         }
