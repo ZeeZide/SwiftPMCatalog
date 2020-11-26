@@ -216,10 +216,7 @@
             {
               "type": "search",
               "rows": 5,
-              "needle": "xml",
-              "repositories": [
-                "https://github.com/vincentneo/CoreGPX.git"
-              ]
+              "needle": "xml"
             }
           ],
           "title": "XML"
