@@ -216,7 +216,10 @@
             {
               "type": "search",
               "rows": 5,
-              "needle": "xml"
+              "needle": "xml",
+              "repositories": [
+                "https://github.com/vincentneo/CoreGPX.git"
+              ]
             }
           ],
           "title": "XML"
@@ -636,6 +639,8 @@
     "https://github.com/ZeeQL/ZeeQL3.git":
       "https://avatars0.githubusercontent.com/u/26922908?s=256&v=4",
     "https://github.com/paololeonardi/WaterfallGrid.git":
-      "https://paololeonardi.github.io/waterfallgrid/resources/waterfallgrid-logo.png"
+      "https://paololeonardi.github.io/waterfallgrid/resources/waterfallgrid-logo.png",
+    "https://github.com/vincentneo/CoreGPX.git":
+      "https://www.vincent-neo.com/images/CoreGPX-Title.png"
   }
 }
