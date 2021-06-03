@@ -8,10 +8,10 @@
           "title": "Big ones",
           "type": "snapshot-list",
           "repositories": [
-            "https://github.com/JohnSundell/Splash.git",
             "https://github.com/SwiftBlocksUI/SwiftBlocksUI.git",
-            "https://github.com/SwiftyJSON/SwiftyJSON.git",
-            "https://github.com/mxcl/PromiseKit.git"
+            "https://github.com/mxcl/PromiseKit.git",
+            "https://github.com/JohnSundell/Splash.git",
+            "https://github.com/SwiftyJSON/SwiftyJSON.git"
           ]
         },
         {
@@ -36,14 +36,16 @@
         {
           "title": "Frameworks",
           "type": "small-list",
-          "rows": 2,
+          "rows": 3,
           "repositories": [
             "https://github.com/vapor/vapor.git",
             "https://github.com/Macro-swift/Macro.git",
             "https://github.com/amzn/smoke-framework.git",
-            "https://github.com/Zewo/Epoch.git",
+            "https://github.com/https://github.com/khanlou/Meridian.git",
+            "https://github.com/alchemy-swift/alchemy.git",
+            "https://github.com/hummingbird-project/hummingbird.git",
+            "https://github.com/chaqmoq/chaqmoq.git",
             "https://github.com/perfectlysoft/perfect.git",
-            "https://github.com/IBM-Swift/Kitura.git",
             "https://github.com/nozeio/microexpress.git"
           ]
         },
@@ -86,16 +88,6 @@
           ]
         },
         {
-          "title": "Vapor",
-          "content": [
-            {
-              "type": "search",
-              "rows": 5,
-              "needle": "vapor"
-            }
-          ]
-        },
-        {
           "title": "SSWG",
           "content": [
             {
@@ -111,7 +103,9 @@
                 "https://github.com/swift-server/async-http-client.git",
                 "https://github.com/kylebrowning/swift-nio-apns.git",
                 "https://github.com/apple/swift-statsd-client.git",
-                "https://github.com/MrLotU/SwiftPrometheus.git"
+                "https://github.com/MrLotU/SwiftPrometheus.git",
+                "https://github.com/swift-server/swift-service-lifecycle.git",
+                "https://github.com/swift-server/swift-backtrace.git",
               ]
             }
           ]
@@ -120,6 +114,17 @@
           "title": "Slack",
           "content": [
             {
+              "title": "Popular",
+              "rows": 1,
+              "type": "small-list",
+              "repositories": [
+                "https://github.com/SwiftBlocksUI/SwiftBlocksUI.git",
+                "https://github.com/ChameleonBot/Chameleon.git",
+                "https://github.com/pvzig/SlackKit.git"
+              ]
+            },
+            {
+              "title": "Search",
               "type": "search",
               "rows": 5,
               "needle": "slack"
@@ -127,22 +132,43 @@
           ]
         },
         {
-          "title": "Kitura",
+          "title": "AWS",
           "content": [
             {
-              "type": "search",
-              "rows": 5,
-              "needle": "kitura"
+              "rows": 2,
+              "type": "small-list",
+              "repositories": [
+                "https://github.com/swift-server/swift-aws-lambda-runtime",
+                "https://github.com/soto-project/soto.git",
+                "https://github.com/Macro-swift/MacroLambda.git",
+                "https://github.com/SwiftXcode/swift-lambda.git"
+              ]
             }
           ]
         },
         {
-          "title": "Perfect",
+          "title": "Macro",
+          "content": [
+            {
+              "rows": 2,
+              "type": "small-list",
+              "repositories": [
+                "https://github.com/Macro-swift/MacroExpress.git",
+                "https://github.com/Macro-swift/MacroApp.git",
+                "https://github.com/Macro-swift/Examples.git",
+                "https://github.com/Macro-swift/MacroLambda.git",
+                "https://github.com/Macro-swift/MacroXmlRpc.git"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vapor",
           "content": [
             {
               "type": "search",
               "rows": 5,
-              "needle": "perfect"
+              "needle": "vapor"
             }
           ]
         }
@@ -638,6 +664,9 @@
     "https://github.com/paololeonardi/WaterfallGrid.git":
       "https://paololeonardi.github.io/waterfallgrid/resources/waterfallgrid-logo.png",
     "https://github.com/vincentneo/CoreGPX.git":
-      "https://www.vincent-neo.com/images/CoreGPX-256.png"
+      "https://www.vincent-neo.com/images/CoreGPX-256.png",
+      
+    "https://github.com/SwiftXcode/swift-lambda.git":
+      "https://camo.githubusercontent.com/4b53b1e2cd6a4d11d8e4bb75e4e24d2b4004742a03bef9c12dec911e45139325/687474703a2f2f7a65657a6964652e636f6d2f696d672f6c616d6264612f73776966742d6c616d6264612d323536783235362e706e67"
   }
 }
