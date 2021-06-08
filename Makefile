@@ -1,4 +1,9 @@
 # Makefile
 
 all:
-	@echo "Hello!"
+	@echo "Available targets:"
+	@echo
+	@echo "  make validate"
+
+validate:
+	scripts/validate.sh
