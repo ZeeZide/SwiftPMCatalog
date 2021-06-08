@@ -1,0 +1,44 @@
+{
+  "image": "ImDatabase1",
+  "title": "Databases",
+  "content": [
+    {
+      "type": "small-list",
+      "title": "Object Relational Mappers",
+      "repositories": [
+        "https://github.com/IBM-Swift/Swift-Kuery-ORM.git",
+        "https://github.com/SwiftORM/Storm.git",
+        "https://github.com/Vapor/Fluent.git",
+        "https://github.com/ZeeQL/ZeeQL3.git"
+      ]
+    },
+    {
+      "type": "small-list",
+      "title": "Redis",
+      "repositories": [
+        "https://github.com/Mordil/swift-redi-stack.git",
+        "https://github.com/SwiftNIOExtras/swift-nio-redis.git",
+        "https://github.com/NozeIO/redi-s.git"
+      ]
+    },
+    {
+      "type": "small-list",
+      "title": "PostgreSQL",
+      "repositories": [
+        "https://github.com/vapor/nio-postgres.git",
+        "https://github.com/codewinsdotcom/PostgresClientKit.git",
+        "https://github.com/pl-swift/plswift.git"
+      ]
+    },
+    {
+      "type": "small-list",
+      "title": "SQLite",
+      "repositories": [
+        "https://github.com/groue/GRDB.swift.git",
+        "https://github.com/stephencelis/SQLite.swift.git",
+        "https://github.com/vapor/sqlite-kit.git"
+      ]
+    }
+  ],
+  "order": [ "ORMs", "PostgreSQL", "Redis", "SQLite", "MySQL", "Realm" ]
+}

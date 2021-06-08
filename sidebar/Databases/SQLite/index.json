@@ -1,0 +1,19 @@
+{
+  "title": "SQLite",
+  "content": [
+    {
+      "type": "small-list",
+      "title": "Featured",
+      "repositories": [
+        "https://github.com/groue/GRDB.swift.git",
+        "https://github.com/stephencelis/SQLite.swift.git",
+        "https://github.com/vapor/sqlite-kit.git"
+      ]
+    },
+    {
+      "type": "search",
+      "rows": 5,
+      "needle": "sqlite"
+    }
+  ]
+}
