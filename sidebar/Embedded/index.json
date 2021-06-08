@@ -1,0 +1,31 @@
+{
+  "content": [
+    {
+      "repositories": [
+        "https://github.com/uraimo/SwiftyGPIO.git",
+        "https://github.com/3Qax/SwiftyOLED.git",
+        "https://github.com/3Qax/SwiftyGFX",
+        "https://github.com/SwiftyLinkerKit/SwiftyLinkerKit.git",
+        "https://github.com/SwiftyLinkerKit/SwiftyTM1637.git",
+        "https://github.com/uraimo/5110lcd_pcd8544.swift.git",
+        "https://github.com/uraimo/Bitter.git",
+        "https://github.com/uraimo/ds1307.swift.git",
+        "https://github.com/uraimo/ds18b20.swift.git",
+        "https://github.com/uraimo/hd44780characterlcd.swift.git",
+        "https://github.com/uraimo/mcp3008.swift.git",
+        "https://github.com/uraimo/mpu-6050.swift.git",
+        "https://github.com/uraimo/nunchuck.swift.git",
+        "https://github.com/uraimo/rcwl-0516-radar.swift.git",
+        "https://github.com/uraimo/sg90servo.swift.git",
+        "https://github.com/uraimo/ubloxgps.swift.git",
+        "https://github.com/uraimo/ws281x.swift.git",
+        "https://github.com/darthpelo/swiftgpiolibrary.git",
+        "https://github.com/SwiftyLinkerKit/LinkerKitIRCBot.git"
+      ],
+      "type": "small-list",
+      "rows": 4
+    }
+  ],
+  "image": "ImCPU2",
+  "title": "Embedded"
+}

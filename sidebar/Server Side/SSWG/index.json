@@ -1,0 +1,23 @@
+{
+  "title": "SSWG",
+  "content": [
+    {
+      "title": "Server Side Working Group",
+      "rows": 3,
+      "type": "small-list",
+      "repositories": [
+        "https://github.com/apple/swift-nio.git",
+        "https://github.com/apple/swift-log.git",
+        "https://github.com/apple/swift-metrics.git",
+        "https://github.com/vapor/nio-postgres.git",
+        "https://github.com/Mordil/swift-redi-stack.git",
+        "https://github.com/swift-server/async-http-client.git",
+        "https://github.com/kylebrowning/swift-nio-apns.git",
+        "https://github.com/apple/swift-statsd-client.git",
+        "https://github.com/MrLotU/SwiftPrometheus.git",
+        "https://github.com/swift-server/swift-service-lifecycle.git",
+        "https://github.com/swift-server/swift-backtrace.git"
+      ]
+    }
+  ]
+}

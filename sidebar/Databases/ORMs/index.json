@@ -1,0 +1,22 @@
+{
+  "title": "ORMs",
+  "content": [
+    {
+      "title" : "Object Relational Mapper",
+      "type"  : "small-list",
+      "repositories": [
+        "https://github.com/ZeeQL/ZeeQL3.git",
+        "https://github.com/vapor/fluent.git",
+        "https://github.com/IBM-Swift/Swift-Kuery-ORM.git"
+      ]
+    },
+    {
+      "title" : "App Generators",
+      "type"  : "small-list",
+      "repositories": [
+        "https://github.com/DirectToSwift/DirectToSwiftUI.git",
+        "https://github.com/DirectToSwift/CoreDataToSwiftUI.git"
+      ]
+    }
+  ]
+}

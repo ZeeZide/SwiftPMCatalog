@@ -1,0 +1,21 @@
+{
+  "title": "Slack",
+  "content": [
+    {
+      "title": "Popular",
+      "rows": 1,
+      "type": "small-list",
+      "repositories": [
+        "https://github.com/SwiftBlocksUI/SwiftBlocksUI.git",
+        "https://github.com/ChameleonBot/Chameleon.git",
+        "https://github.com/pvzig/SlackKit.git"
+      ]
+    },
+    {
+      "title": "Search",
+      "type": "search",
+      "rows": 5,
+      "needle": "slack"
+    }
+  ]
+}

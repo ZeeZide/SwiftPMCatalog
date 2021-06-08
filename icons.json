@@ -1,0 +1,119 @@
+{
+    "https://github.com/JohnSundell/Ink.git": 
+      "https://github.com/JohnSundell/Ink/blob/master/Logo.png?raw=true",
+    
+    "https://github.com/amzn/smoke-framework.git": 
+      "https://avatars0.githubusercontent.com/u/8594673?s=256&v=4",
+      
+    "https://github.com/SnapKit/SnapKit.git": 
+      "https://avatars0.githubusercontent.com/u/7809696?s=256&v=4",
+      
+    "https://github.com/IBM-Swift/Kitura.git": 
+      "https://avatars2.githubusercontent.com/u/16882981?s=256&v=4",
+    "https://github.com/IBM-Swift/Swift-Kuery-ORM.git":
+      "https://avatars2.githubusercontent.com/u/16882981?s=256&v=4",
+      
+    "https://github.com/NozeIO/Noze.io.git": 
+      "http://noze.io/images/noze-128x128.png",
+    "https://github.com/nozeio/microexpress.git": 
+      "https://zeezide.com/img/MicroExpressIcon1024.png",
+      
+    "https://github.com/freshOS/then.git": 
+      "https://avatars0.githubusercontent.com/u/20884428?s=256&v=4",
+      
+    "https://github.com/swiftwebui/SwiftWebUI.git": 
+      "http://www.alwaysrightinstitute.com/images/swiftwebui/TinkerIcon128.png",
+    "https://github.com/DirectToSwift/DirectToSwiftUI.git":
+      "https://avatars2.githubusercontent.com/u/55363107?s=256&v=4",
+    "https://github.com/DirectToSwift/CoreDataToSwiftUI.git":
+      "https://avatars2.githubusercontent.com/u/55363107?s=256&v=4",
+      
+    "https://github.com/uraimo/SwiftyGPIO.git": 
+      "https://avatars0.githubusercontent.com/u/181436?s=256&v=4",
+      
+    "https://github.com/erica/swiftdates.git": 
+      "https://raw.githubusercontent.com/erica/SwiftDates/master/images/clock.png",
+      
+    "https://github.com/SwiftXcode/swift-xcode.git": 
+      "https://avatars2.githubusercontent.com/u/36967536?s=256&v=4",
+    "https://github.com/AlwaysRightInstitute/cows.git": 
+      "https://cloud.githubusercontent.com/assets/170270/13090998/a9cdd6b0-d52b-11e5-83ec-614143c9a3bb.png",
+
+    "https://github.com/vapor/vapor.git": 
+      "https://avatars1.githubusercontent.com/u/17364220?s=256&v=4",
+    "https://github.com/vapor/nio-postgres.git":
+      "https://avatars1.githubusercontent.com/u/17364220?s=256&v=4",
+    "https://github.com/vapor/fluent.git":
+      "https://avatars1.githubusercontent.com/u/17364220?s=256&v=4",
+      
+    "https://github.com/Moya/Moya.git": 
+      "https://raw.githubusercontent.com/Moya/Moya/master/web/logo_github.png",
+    "https://github.com/Quick/Quick.git": 
+      "https://avatars0.githubusercontent.com/u/8083968?s=256&v=4",
+    "https://github.com/SwiftyLinkerKit/SwiftyTM1637.git": 
+      "https://camo.githubusercontent.com/de19407d010fc9dc4041c4ae651c291e524f7a86/687474703a2f2f7a65657a6964652e636f6d2f696d672f4c4b446967693132382e706e67",
+    "https://github.com/Alamofire/Alamofire.git": 
+      "https://avatars3.githubusercontent.com/u/7774181?s=256&v=4",
+    "https://github.com/SwiftyLinkerKit/LinkerKitIRCBot.git": 
+      "https://camo.githubusercontent.com/de19407d010fc9dc4041c4ae651c291e524f7a86/687474703a2f2f7a65657a6964652e636f6d2f696d672f4c4b446967693132382e706e67",
+    "https://github.com/onevcat/Kingfisher.git": 
+      "https://raw.githubusercontent.com/onevcat/Kingfisher/master/images/kingfisher-9.jpg",
+    "https://github.com/SwiftyLinkerKit/SwiftyLinkerKit.git": 
+      "https://camo.githubusercontent.com/de19407d010fc9dc4041c4ae651c291e524f7a86/687474703a2f2f7a65657a6964652e636f6d2f696d672f4c4b446967693132382e706e67",
+    "https://github.com/krzyzanowskim/CryptoSwift.git": 
+      "https://avatars0.githubusercontent.com/u/758033?s=256&v=4",
+    "https://github.com/mxcl/PromiseKit.git": 
+      "https://avatars2.githubusercontent.com/u/58962?s=256&v=4",
+    "https://github.com/SwiftyJSON/SwiftyJSON.git": 
+      "https://avatars3.githubusercontent.com/u/8858017?s=256&v=4",
+    
+    "https://github.com/apple/swift-nio.git": 
+      "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
+    "https://github.com/apple/swift-package-manager.git": 
+      "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
+    "https://github.com/apple/swift-statsd-client.git":
+      "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
+    "https://github.com/apple/swift-syntax.git": 
+      "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
+    "https://github.com/apple/swift-log.git":
+      "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
+    "https://github.com/apple/swift-metrics.git":
+      "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
+    "https://github.com/apple/swift-numerics.git":
+      "https://avatars0.githubusercontent.com/u/10639145?s=256&v=4",
+    
+    "https://github.com/vapor-community/markdown.git": 
+      "https://avatars1.githubusercontent.com/u/17364220?s=256&v=4",
+    "https://github.com/pixyzehn/packagebuilder.git": 
+      "https://avatars2.githubusercontent.com/u/2482478?s=256&v=4",
+    "https://github.com/kishikawakatsumi/swiftsyntax.git": 
+      "https://avatars3.githubusercontent.com/u/40610?s=256&v=4",
+    "https://github.com/balance-io/secp256k1_swift.git": 
+      "https://avatars0.githubusercontent.com/u/19879255?s=256&v=4",
+    "https://github.com/surpher/pactswiftpmexample.git": 
+      "https://avatars2.githubusercontent.com/u/1733327?s=256&v=4",
+    "https://github.com/swift-server/async-http-client.git":
+      "https://avatars2.githubusercontent.com/u/21047421?s=256&v=4",
+    "https://github.com/kylebrowning/swift-nio-apns.git":
+      "https://avatars0.githubusercontent.com/u/113023?s=256&v=4",
+    "https://github.com/MrLotU/SwiftPrometheus":
+      "https://avatars1.githubusercontent.com/u/18392003?s=256&v=4",
+    "https://github.com/mordil/swift-redi-stack.git":
+      "https://assets.gitlab-static.net/uploads/-/system/project/avatar/12732727/RediStack_logo.png?width=64",
+    "https://github.com/Zewo/Epoch.git":
+      "https://raw.githubusercontent.com/Zewo/Zewo/master/Images/zewo.png",
+    "https://github.com/perfectlysoft/perfect.git":
+      "https://avatars0.githubusercontent.com/u/14945043?s=256&v=4",
+      
+    "https://github.com/pl-swift/plswift.git":
+      "https://avatars1.githubusercontent.com/u/35143538?s=256&v=4",
+    "https://github.com/ZeeQL/ZeeQL3.git":
+      "https://avatars0.githubusercontent.com/u/26922908?s=256&v=4",
+    "https://github.com/paololeonardi/WaterfallGrid.git":
+      "https://paololeonardi.github.io/waterfallgrid/resources/waterfallgrid-logo.png",
+    "https://github.com/vincentneo/CoreGPX.git":
+      "https://www.vincent-neo.com/images/CoreGPX-256.png",
+      
+    "https://github.com/SwiftXcode/swift-lambda.git":
+      "https://camo.githubusercontent.com/4b53b1e2cd6a4d11d8e4bb75e4e24d2b4004742a03bef9c12dec911e45139325/687474703a2f2f7a65657a6964652e636f6d2f696d672f6c616d6264612f73776966742d6c616d6264612d323536783235362e706e67"
+}

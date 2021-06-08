@@ -1,0 +1,15 @@
+{
+  "content": [
+    {
+      "repositories": [
+        "https://github.com/attaswift/BTree.git",
+        "https://github.com/Cosmo/Nodes",
+        "https://github.com/erica/swiftdates.git",
+        "https://github.com/rockfordwei/decisiontree.git"
+      ],
+      "type": "small-list"
+    }
+  ],
+  "image": "ImSort27",
+  "title": "Data Structures"
+}

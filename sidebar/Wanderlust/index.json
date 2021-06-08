@@ -1,0 +1,31 @@
+{
+  "image": "ImDiscover",
+  "title": "Wanderlust",
+  "content": [
+    {
+      "title": "Big ones",
+      "type": "snapshot-list",
+      "repositories": [
+        "https://github.com/SwiftBlocksUI/SwiftBlocksUI.git",
+        "https://github.com/mxcl/PromiseKit.git",
+        "https://github.com/JohnSundell/Splash.git",
+        "https://github.com/SwiftyJSON/SwiftyJSON.git"
+      ]
+    },
+    {
+      "title": "All Things Swift",
+      "type": "small-list",
+      "needle": "swift all",
+      "rows": 2
+    },
+    {
+      "type": "list",
+      "title": "Interesting Repos",
+      "repositories": [
+        "https://github.com/SwiftyJSON/SwiftyJSON.git",
+        "https://github.com/mxcl/PromiseKit.git",
+        "https://github.com/SwiftXcode/swift-xcode.git"
+      ]
+    }
+  ]
+}

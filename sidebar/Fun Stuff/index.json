@@ -1,0 +1,14 @@
+{
+  "content": [
+    {
+      "repositories": [
+        "https://github.com/AlwaysRightInstitute/cows.git",
+        "https://github.com/alwaysrightinstitute/euro.git",
+        "https://github.com/AlwaysRightInstitute/SwiftEliza.git"
+      ],
+      "type": "small-list"
+    }
+  ],
+  "image": "ImParty8",
+  "title": "Fun Stuff"
+}

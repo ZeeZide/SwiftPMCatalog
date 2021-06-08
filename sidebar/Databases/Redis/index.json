@@ -1,0 +1,19 @@
+{
+  "title": "Redis",
+  "content": [
+    {
+      "type": "small-list",
+      "title": "Featured",
+      "repositories": [
+        "https://github.com/Mordil/swift-redi-stack.git",
+        "https://github.com/SwiftNIOExtras/swift-nio-redis.git",
+        "https://github.com/NozeIO/redi-s.git"
+      ]
+    },
+    {
+      "type": "search",
+      "rows": 5,
+      "needle": "redis"
+    }
+  ]
+}
