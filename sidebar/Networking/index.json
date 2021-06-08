@@ -1,0 +1,31 @@
+{
+  "content": [
+    {
+      "type": "snapshot-list",
+      "title": "Big ones",
+      "repositories": [
+        "https://github.com/Alamofire/Alamofire.git"
+      ]
+    },
+    {
+      "rows": 3,
+      "title": "HTTP",
+      "type": "search",
+      "needle": "HTTP"
+    },
+    {
+      "rows": 1,
+      "title": "UDP",
+      "type": "search",
+      "needle": "UDP"
+    },
+    {
+      "rows": 1,
+      "title": "SMTP",
+      "type": "search",
+      "needle": "SMTP"
+    }
+  ],
+  "image": "ImSitemap6",
+  "title": "Networking"
+}

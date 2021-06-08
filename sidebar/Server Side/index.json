@@ -1,0 +1,56 @@
+{
+  "image": "ImServer9",
+  "title": "Server Side",
+  "order": [
+    "Swift NIO",
+    "SSWG",
+    "Slack",
+    "AWS",
+    "Macro",
+    "Vapor"    
+  ],
+  "content": [
+    {
+      "title": "Frameworks",
+      "type": "small-list",
+      "rows": 3,
+      "repositories": [
+        "https://github.com/vapor/vapor.git",
+        "https://github.com/Macro-swift/Macro.git",
+        "https://github.com/amzn/smoke-framework.git",
+        "https://github.com/https://github.com/khanlou/Meridian.git",
+        "https://github.com/alchemy-swift/alchemy.git",
+        "https://github.com/hummingbird-project/hummingbird.git",
+        "https://github.com/chaqmoq/chaqmoq.git",
+        "https://github.com/perfectlysoft/perfect.git",
+        "https://github.com/nozeio/microexpress.git"
+      ]
+    },
+    {
+      "title": "Working Group",
+      "rows": 3,
+      "type": "small-list",
+      "repositories": [
+        "https://github.com/apple/swift-nio.git",
+        "https://github.com/apple/swift-log.git",
+        "https://github.com/apple/swift-metrics.git",
+        "https://github.com/vapor/nio-postgres.git",
+        "https://github.com/Mordil/swift-redi-stack.git",
+        "https://github.com/swift-server/async-http-client.git",
+        "https://github.com/kylebrowning/swift-nio-apns.git",
+        "https://github.com/apple/swift-statsd-client.git",
+        "https://github.com/MrLotU/SwiftPrometheus.git"
+      ]
+    },
+    {
+      "title": "Strange but Fun",
+      "type": "small-list",
+      "rows": 1,
+      "repositories": [
+        "https://github.com/swiftwebui/SwiftWebUI.git",
+        "https://github.com/NozeIO/Noze.io.git",
+        "https://github.com/SwiftObjects/SwiftObjects.git"
+      ]
+    }
+  ]
+}

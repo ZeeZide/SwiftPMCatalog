@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "repositories": [
+        "https://github.com/zewograveyard/gzip.git"
+      ],
+      "type": "small-list"
+    },
+    {
+      "type": "small-list",
+      "rows": 2,
+      "needle": "compress"
+    },
+    {
+      "type": "small-list",
+      "rows": 2,
+      "needle": "zip"
+    }
+  ],
+  "image": "ImZip7",
+  "title": "Compression"
+}

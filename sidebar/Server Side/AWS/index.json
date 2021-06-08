@@ -1,0 +1,15 @@
+{
+  "title": "AWS",
+  "content": [
+    {
+      "rows": 2,
+      "type": "small-list",
+      "repositories": [
+        "https://github.com/swift-server/swift-aws-lambda-runtime",
+        "https://github.com/soto-project/soto.git",
+        "https://github.com/Macro-swift/MacroLambda.git",
+        "https://github.com/SwiftXcode/swift-lambda.git"
+      ]
+    }
+  ]
+}

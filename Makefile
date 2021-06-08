@@ -1,0 +1,4 @@
+# Makefile
+
+all:
+	@echo "Hello!"

@@ -1,0 +1,19 @@
+{
+  "image": "ImGlobe5",
+  "title": "Data Formats",
+  "order": [ "JSON", "Markdown", "HTML", "XML", "Protobuf" ],
+  "content": [
+    {
+      "rows": 5,
+      "title": "JSON",
+      "type": "small-list",
+      "needle": "json"
+    },
+    {
+      "title": "Markdown",
+      "rows": 3,
+      "type": "search",
+      "needle": "markdown"
+    }
+  ]
+}
