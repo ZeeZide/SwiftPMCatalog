@@ -1,6 +1,17 @@
 {
   "content": [
     {
+      "type": "small-list",
+      "title": "Extras",
+      "repositories": [
+        "https://github.com/SwiftUIX/SwiftUIX.git",
+        "https://github.com/ZeeZide/ViewController.git",
+        "https://github.com/frzi/swiftui-router.git",
+        "https://github.com/pointfreeco/swift-composable-architecture.git",
+        "https://github.com/tevelee/SwiftUI-Flow.git"
+      ]
+    },
+    {
       "type": "search",
       "rows": 5,
       "needle": "swiftui"

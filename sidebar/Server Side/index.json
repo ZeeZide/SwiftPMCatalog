@@ -15,12 +15,13 @@
       "type": "small-list",
       "rows": 3,
       "repositories": [
-        "https://github.com/vapor/vapor.git",
+        "https://github.com/hummingbird-project/hummingbird.git",
         "https://github.com/Macro-swift/Macro.git",
+        "https://github.com/swhitty/FlyingFox",
+        "https://github.com/vapor/vapor.git",
         "https://github.com/amzn/smoke-framework.git",
         "https://github.com/https://github.com/khanlou/Meridian.git",
         "https://github.com/alchemy-swift/alchemy.git",
-        "https://github.com/hummingbird-project/hummingbird.git",
         "https://github.com/chaqmoq/chaqmoq.git",
         "https://github.com/perfectlysoft/perfect.git",
         "https://github.com/nozeio/microexpress.git"

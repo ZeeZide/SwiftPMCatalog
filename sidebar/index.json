@@ -1,16 +1,17 @@
 {
   "order": [
     "Wanderlust",
+    "Databases",
+    "Macros",
+    "SwiftUI",
     "Server Side",
-    "Data Structures",
     "Data Formats",
+    "Data Structures",
     "Compression",
     "Encryption",
     "Networking",
-    "SwiftUI",
     "Shell",
     "Embedded",
-    "Databases",
     "Fun Stuff"
   ]
 }

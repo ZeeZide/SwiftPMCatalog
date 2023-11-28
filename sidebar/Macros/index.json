@@ -1,0 +1,22 @@
+{
+  "image": "ImCode5",
+  "title": "Macros",
+  "content": [
+    {
+      "type": "small-list",
+      "title": "Featured",
+      "repositories": [
+        "https://github.com/Data-swift/ManagedModels.git",
+        "https://github.com/IanKeen/MacroKit.git",
+        "https://github.com/ShenghaiWang/SwiftMacros.git",
+        "https://github.com/Matejkob/swift-spyable.git",
+        "https://github.com/lukepistrol/SFSymbolsMacro.git"
+      ]
+    },
+    {
+      "type": "search",
+      "rows": 5,
+      "needle": "macro"
+    }
+  ]
+}
