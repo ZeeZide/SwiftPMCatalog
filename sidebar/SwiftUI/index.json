@@ -4,6 +4,7 @@
       "type": "small-list",
       "title": "Extras",
       "repositories": [
+        "https://github.com/EmergeTools/Pow.git",
         "https://github.com/SwiftUIX/SwiftUIX.git",
         "https://github.com/ZeeZide/ViewController.git",
         "https://github.com/johnpatrickmorgan/FlowStacks.git",
