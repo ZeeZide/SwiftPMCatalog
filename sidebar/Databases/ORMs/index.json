@@ -5,9 +5,9 @@
       "title" : "Object Relational Mapper",
       "type"  : "small-list",
       "repositories": [
+        "https://github.com/Data-swift/ManagedModels.git",
         "https://github.com/ZeeQL/ZeeQL3.git",
-        "https://github.com/vapor/fluent.git",
-        "https://github.com/IBM-Swift/Swift-Kuery-ORM.git"
+        "https://github.com/vapor/fluent.git"
       ]
     },
     {

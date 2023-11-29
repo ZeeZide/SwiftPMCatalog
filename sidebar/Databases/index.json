@@ -1,15 +1,38 @@
 {
   "image": "ImDatabase1",
   "title": "Databases",
+  "order": [ 
+    "SQLite", "SwiftData", "ORMs", "PostgreSQL", 
+    "Northwind", "Redis", "MySQL", "Realm" 
+  ],
   "content": [
+    {
+      "type": "small-list",
+      "title": "SQLite",
+      "repositories": [
+        "https://github.com/Lighter-swift/Lighter.git",
+        "https://github.com/groue/GRDB.swift.git",
+        "https://github.com/Northwind-swift/NorthwindSQLite.swift.git"
+      ]
+    },
+    {
+      "type": "small-list",
+      "title": "SwiftData",
+      "repositories": [
+        "https://github.com/fatbobman/SwiftDataKit.git",
+        "https://swiftpackageindex.com/Northwind-swift/NorthwindSwiftData.git",
+        "https://github.com/Data-swift/ManagedModels.git"    
+      ]
+    },
     {
       "type": "small-list",
       "title": "Object Relational Mappers",
       "repositories": [
-        "https://github.com/IBM-Swift/Swift-Kuery-ORM.git",
+        "https://github.com/Data-swift/ManagedModels.git",
         "https://github.com/SwiftORM/Storm.git",
         "https://github.com/Vapor/Fluent.git",
-        "https://github.com/ZeeQL/ZeeQL3.git"
+        "https://github.com/ZeeQL/ZeeQL3.git",
+        "https://github.com/IBM-Swift/Swift-Kuery-ORM.git"
       ]
     },
     {
@@ -29,16 +52,6 @@
         "https://github.com/codewinsdotcom/PostgresClientKit.git",
         "https://github.com/pl-swift/plswift.git"
       ]
-    },
-    {
-      "type": "small-list",
-      "title": "SQLite",
-      "repositories": [
-        "https://github.com/groue/GRDB.swift.git",
-        "https://github.com/stephencelis/SQLite.swift.git",
-        "https://github.com/vapor/sqlite-kit.git"
-      ]
     }
-  ],
-  "order": [ "ORMs", "PostgreSQL", "Redis", "SQLite", "MySQL", "Realm" ]
+  ]
 }

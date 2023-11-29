@@ -1,0 +1,19 @@
+{
+  "title": "Northwind",
+  "content": [
+    {
+      "type": "small-list",
+      "title": "Featured",
+      "repositories": [
+        "https://github.com/Northwind-swift/NorthwindSQLite.swift.git",
+        "https://github.com/Northwind-swift/NorthwindSwiftData.git",
+        "https://github.com/Northwind-swift/NorthwindManagedModels.git"
+      ]
+    },
+    {
+      "type": "search",
+      "rows": 1,
+      "needle": "Northwind"
+    }
+  ]
+}

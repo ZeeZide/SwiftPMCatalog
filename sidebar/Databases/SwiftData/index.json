@@ -1,0 +1,19 @@
+{
+  "title": "SwiftData",
+  "content": [
+    {
+      "title" : "Featured",
+      "type"  : "small-list",
+      "repositories": [
+        "https://github.com/fatbobman/SwiftDataKit.git",
+        "https://swiftpackageindex.com/Northwind-swift/NorthwindSwiftData.git",
+        "https://github.com/Data-swift/ManagedModels.git"
+      ]
+    },
+    {
+      "type": "search",
+      "rows": 2,
+      "needle": "swiftdata"
+    }
+  ]
+}

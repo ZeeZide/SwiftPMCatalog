@@ -7,9 +7,7 @@
       "type": "snapshot-list",
       "repositories": [
         "https://github.com/SwiftBlocksUI/SwiftBlocksUI.git",
-        "https://github.com/mxcl/PromiseKit.git",
-        "https://github.com/JohnSundell/Splash.git",
-        "https://github.com/SwiftyJSON/SwiftyJSON.git"
+        "https://github.com/JohnSundell/Splash.git"
       ]
     },
     {
@@ -22,9 +20,9 @@
       "type": "list",
       "title": "Interesting Repos",
       "repositories": [
-        "https://github.com/SwiftyJSON/SwiftyJSON.git",
         "https://github.com/mxcl/PromiseKit.git",
-        "https://github.com/SwiftXcode/swift-xcode.git"
+        "https://github.com/IanKeen/MacroKit.git",
+        "https://github.com/Northwind-swift/NorthwindSQLite.swift.git"
       ]
     }
   ]
