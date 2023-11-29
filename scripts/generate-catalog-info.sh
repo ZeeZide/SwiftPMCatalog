@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# fail on error
+set -e
+
 export IFS="
 "
 
@@ -8,6 +11,9 @@ generateDirectory() {
   local old="$PWD"
   cd "${name}"
   local isFirst="yes"
+  
+  #echo
+  #echo "GENERATE: ${name} in $PWD"
   
   echo -n "["
 
